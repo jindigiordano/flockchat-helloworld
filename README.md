@@ -10,14 +10,14 @@ Use '/helloworld' slash command to trigger a bot sending "Hello World" message t
 1. Watch Flock [Tutorial](https://youtu.be/WBBIbueCW7I?list=PLBuDiXOL2QKELVFRl3NJGEHBSyngCZH3_)
 
 ## Add config.js
-'''javascript
+```javascript
     module.exports = {
     appId: <your app id>,
     appSecret: <your app secret>,
     botUserId: <your bot id>,
     botToken: <your bot token>
     };
-'''
+```
 
 
 ## Start Server
