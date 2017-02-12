@@ -4,7 +4,10 @@ Use '/helloworld' slash command to trigger a bot sending "Hello World" message t
 
 ## To Demo App from Your Computer
 1. Install ngrok
-2. ./ngrok http 8080
+2. In your project directory, run
+    ````bash
+    ./ngrok http 8080
+    ````
 
 ## Add and  Install App in Flock
 1. Watch Flock [Tutorial](https://youtu.be/WBBIbueCW7I?list=PLBuDiXOL2QKELVFRl3NJGEHBSyngCZH3_)
@@ -22,11 +25,14 @@ After you've created your new Flock App [here](https://dev.flock.co/apps/new), y
 
 
 ## Start Server
-1. Run 'node index.js' in project directory
+1. In your project directory, run
+    ````bash
+    node index.js
+    ````
 
 ## Using slash command
 1. Type /helloworld in your chat
-2. **Magic happens**
+2. 🎉 🎉 **Magic happens** 🎉 🎉
 
 ----
 ## Thanks
