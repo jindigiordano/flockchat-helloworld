@@ -36,7 +36,7 @@ flock.events.on('client.slashCommand', function (event) {
         // "color": "#0ABE51",
         "views": {
             // Attachment widget
-            "widget": { "src": "https://1d993cd8.ngrok.io/pub", "width": 400, "height": 400 },
+            "widget": { "src": "https://1d993cd8.ngrok.io/swing", "width": 400, "height": 400 },
             // // Inline html
             // "html": { "inline": "<img src='https://media.giphy.com/media/iqgkvYsr2VYBy/giphy.gif' width='200'>", "width": 400, "height": 200 },
             // "flockml": "<inline flockml>",
