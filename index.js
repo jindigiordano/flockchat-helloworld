@@ -22,6 +22,14 @@ flock.events.on('app.install', function (event, callback) {
     callback();
 });
 
-flock.events.on('client.slashCommand', function (event, callback) {
-    console.log('Hello World!');
+flock.events.on('client.slashCommand', function (event) {
+    flock.chat.sendMessage(config.botToken, {
+    to: event.userId,
+    text: 'Hello World!'
+  }, function (error, response) {
+    if (error)
+        console.log('error: ', error);
+    else
+        console.log(response);
+  })
 });
