@@ -10,6 +10,7 @@ Use '/helloworld' slash command to trigger a bot sending "Hello World" message t
 1. Watch Flock [Tutorial](https://youtu.be/WBBIbueCW7I?list=PLBuDiXOL2QKELVFRl3NJGEHBSyngCZH3_)
 
 ## Add config.js
+After you've created your new Flock App [here](https://dev.flock.co/apps/new), you will find the following ID's and tokens for your config.js file.
 ```javascript
     module.exports = {
     appId: <your app id>,
