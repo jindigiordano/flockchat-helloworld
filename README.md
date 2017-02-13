@@ -50,8 +50,8 @@ Since config.js is in the gitignore, you'll have to first create the file, then 
 1. Type /helloworld in your chat
 2. 🎉 🎉 **Magic happens** 🎉 🎉
 
-![helloworld slash command](img1)
-![helloworld bot message](img1)
+![helloworld slash command](https://github.com/jindigiordano/flockchat-helloworld/blob/master/helloworld-slash.png)
+![helloworld bot message](https://github.com/jindigiordano/flockchat-helloworld/blob/master/helloworld-result.png)
 
 
 
